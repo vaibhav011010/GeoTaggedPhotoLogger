@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685242909328",
+    "project_id": "geotaggedphotologger-dbcb7",
+    "storage_bucket": "geotaggedphotologger-dbcb7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685242909328:android:a1beaf329e277900628e15",
+        "android_client_info": {
+          "package_name": "com.geotaggedphotologger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz3FvoI59L4HHBFx1iv3_xfTNnEcpbfMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
