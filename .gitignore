@@ -72,6 +72,37 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+android/gradle.properties
+android/app/google-services.json
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Node modules
+node_modules/
+
+# Bundler cache
+.bundle/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.iml
+
+# Env files
+.env
+.env.*
 
 # Secrets
 android/gradle.properties
